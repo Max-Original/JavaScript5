@@ -1,4 +1,4 @@
-//runst only in chrome console p.s(to open chrome console press F12);
+//runst only in chrome console p.s(to open chrome console press F12).
 //let a = 5;
 //alert(window.a);
 //

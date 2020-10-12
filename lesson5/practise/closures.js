@@ -1,4 +1,4 @@
-// closure
+// closure.
 function createCounter(){
 	let currentValue = 0;
 	return function(){
